@@ -148,8 +148,8 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-40" parent="1" style="whiteSpace=wrap;html=1;" value="Você tem 30 minutos" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abra o PR no github ou na IDE com a lista de arquivos alterados. Revise-os 1 de cada vez.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dê preferência a revisar o conteúdo mais difícil primeiro.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="314" y="1260" as="geometry" />
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;align=left;" value="Abra o PR no github ou na IDE com a lista de arquivos alterados. Revise-os 1 de cada vez, marcando o checkbox de revisado à cada arquivo.&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dê preferência a revisar o conteúdo mais difícil primeiro.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="1260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
