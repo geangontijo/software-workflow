@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="3266" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="Fazer pré-review" vertex="1">
+          <mxGeometry height="890" width="521" x="159" y="640" as="geometry" />
+        </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" value="Passar uma nova tarefa, acabaram as tarefas de um desenvolvedor ou Programador está parado." vertex="1">
           <mxGeometry height="550" width="520" x="160" y="70" as="geometry" />
         </mxCell>
@@ -107,8 +110,46 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-27" parent="1" style="whiteSpace=wrap;html=1;" value="Agende o pré-review com o programador (dê preferência horários entre 10h e 17h)." vertex="1">
           <mxGeometry height="60" width="260" x="-450" y="525" as="geometry" />
         </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-38" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="660" />
+              <mxPoint x="414" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-29" parent="1" style="whiteSpace=wrap;html=1;" value="Faça o pré-review agora." vertex="1">
           <mxGeometry height="60" width="160" x="-130" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-45" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Responda às dúvidas iniciais do desenvolvedor, se elas existirem" vertex="1">
+          <mxGeometry height="60" width="200" x="314" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-43" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Você tem 1h" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-39" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-35" value="Não">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-41" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="O desenvolvedor é júnior?" vertex="1">
+          <mxGeometry height="130" width="130" x="349" y="679" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-42" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-40" parent="1" style="whiteSpace=wrap;html=1;" value="Você tem 30 minutos" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Abra o PR no github ou na IDE com a lista de arquivos alterados. Revise-os 1 de cada vez.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dê preferência a revisar o conteúdo mais denso primeiro: regras de arquitetura, uso&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="314" y="1260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
