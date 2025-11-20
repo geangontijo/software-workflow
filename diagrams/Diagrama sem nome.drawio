@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="3024" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,9 +39,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-15" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-14" value="Sim">
-          <mxGeometry relative="1" x="-0.84" as="geometry">
+          <mxGeometry relative="1" x="-0.8378" y="10" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-21" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-20" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Há tarefas às quais sou o reviewer?" vertex="1">
           <mxGeometry height="120" width="120" x="-1110" y="120" as="geometry" />
@@ -67,10 +70,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="algumas não tiveram o pré-review adequado durante o período de desenvolvimento?" vertex="1">
-          <mxGeometry height="170" width="170" x="-770" y="250" as="geometry" />
+          <mxGeometry height="160" width="160" x="-770" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-17" parent="1" style="whiteSpace=wrap;html=1;" value="Dê prioridade. Review&#39;s grandes geralmente escondem gargalos invisíveis." vertex="1">
           <mxGeometry height="50" width="200" x="-890" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-25" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Sf0qTxrCm-4Mj2-6H7ZE-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="algumas tiveram o devido acompanhamento diário?" vertex="1">
+          <mxGeometry height="172" width="172" x="-542" y="244" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-28" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-300" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="a tarefa tem prioridade extrema (precisa subir agora)?" vertex="1">
+          <mxGeometry height="172" width="172" x="-290" y="244" as="geometry" />
+        </mxCell>
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-27" parent="1" style="whiteSpace=wrap;html=1;" value="Agende o pré-review com o programador. (dê preferência horários entre 10h e 17h)" vertex="1">
+          <mxGeometry height="60" width="260" x="-430" y="525" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
