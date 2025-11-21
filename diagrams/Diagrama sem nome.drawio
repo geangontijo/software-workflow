@@ -164,7 +164,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entregue para o revisador um resumo do que foi feito desde o último pré-review." vertex="1">
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entregue para o revisador um resumo das alterações desde o último pré-review." vertex="1">
           <mxGeometry height="60" width="200" x="750" y="880" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-51" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-48" value="Não">
