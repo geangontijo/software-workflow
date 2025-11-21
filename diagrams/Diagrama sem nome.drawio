@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="3096" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3266" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,12 +10,12 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" value="Passar uma nova tarefa, acabaram as tarefas de um desenvolvedor ou Programador está parado." vertex="1">
           <mxGeometry height="550" width="520" x="160" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="ejpnpWNHu6rVn7Qy5BhC-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ejpnpWNHu6rVn7Qy5BhC-4" value="">
+        <mxCell id="ejpnpWNHu6rVn7Qy5BhC-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-1" value="">
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="400" as="sourcePoint" />
           </mxGeometry>
