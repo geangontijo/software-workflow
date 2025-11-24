@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="2846" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3762" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" value="Fazer pré-review" vertex="1">
-          <mxGeometry height="890" width="521" x="159" y="640" as="geometry" />
+          <mxGeometry height="760" width="521" x="159" y="640" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" value="Passar uma nova tarefa, acabaram as tarefas de um desenvolvedor ou Programador está parado." vertex="1">
           <mxGeometry height="550" width="520" x="160" y="70" as="geometry" />
@@ -154,18 +154,19 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" value="Minha tarefa será pré-revisada" vertex="1">
           <mxGeometry height="890" width="540" x="710" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-59" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-57">
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-59" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FFWU8i_7jr5S72jFIS_z-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="960" />
               <mxPoint x="971" y="960" />
               <mxPoint x="971" y="1000" />
-              <mxPoint x="839" y="1000" />
+              <mxPoint x="835" y="1000" />
             </Array>
+            <mxPoint x="840" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entregue para o revisador um resumo das alterações desde o último pré-review." vertex="1">
-          <mxGeometry height="60" width="200" x="750" y="880" as="geometry" />
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Entregue para o revisador:&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;resumo das&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;alterações desde o último pré-review.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- lista de pendências para a conclusão da tarefa&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="750" y="860" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-51" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-48" value="Não">
           <mxGeometry relative="1" as="geometry">
@@ -184,25 +185,17 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="É o primeiro contato do revisador com essa tarefa?" vertex="1">
           <mxGeometry height="159" width="159" x="891" y="680.5" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-58" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-57">
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-58" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FFWU8i_7jr5S72jFIS_z-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1110" y="1000" />
-              <mxPoint x="839" y="1000" />
+              <mxPoint x="835" y="1000" />
             </Array>
+            <mxPoint x="839" y="1020.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-52" parent="1" style="whiteSpace=wrap;html=1;" value="Contextualize o revisador à tarefa." vertex="1">
           <mxGeometry height="50" width="200" x="1010" y="880" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-61" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-60" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-57" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Durante o desenvolvimento da tarefa foi percebido algum risco técnico?" vertex="1">
-          <mxGeometry height="159" width="159" x="760" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-60" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="Reporte para o revisador. E.g:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“O campo X pode precisar de índice, mas ainda não validei.”&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;“A abordagem que escolhi não segue o padrão do time para services/usecases. O que você acha?”&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="131" width="170" x="1040" y="1034" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-3" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-2" value="Sim">
           <mxGeometry relative="1" as="geometry" />
@@ -218,6 +211,44 @@
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-4" parent="1" style="whiteSpace=wrap;html=1;" value="Fazer reunião com o PO para definir as metas." vertex="1">
           <mxGeometry height="60" width="120" x="-780" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" value="Estou desenvolvendo a minha tarefa" vertex="1">
+          <mxGeometry height="890" width="540" x="1320" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-17" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Foi percebido algum risco técnico?" vertex="1">
+          <mxGeometry height="159" width="159" x="1370" y="712.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-19" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="Anote na sua lista de pendências para mostrar posteriormente para o revisador. E.g:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“O campo X pode precisar de índice, mas ainda não validei.”&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;“A abordagem que escolhi não segue o padrão do time para services/usecases. O que você acha?”&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="176" width="170" x="1645" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-20" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-24" value="Sim">
+          <mxGeometry relative="1" x="-0.1997" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1010" y="1105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=0;" value="Mudanças foram solicitadas?" vertex="1">
+          <mxGeometry height="150" width="150" x="760" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-22" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-25" value="Pequeno (1-3min)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-23" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=0;" value="Qual o tamanho da mudança?" vertex="1">
+          <mxGeometry height="150" width="150" x="935" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-25" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Faça agora mesmo" vertex="1">
+          <mxGeometry height="30" width="120" x="760" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Registre na lista de pendências" vertex="1">
+          <mxGeometry height="35" width="120" x="950" y="1455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
