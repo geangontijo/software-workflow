@@ -201,8 +201,8 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-57" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Durante o desenvolvimento da tarefa foi percebido algum risco técnico?" vertex="1">
           <mxGeometry height="159" width="159" x="760" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-60" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="Reporte para o revisador. E.g:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“O campo X pode precisar de índice, mas ainda não validei.”&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;“A abordagem que escolhi não segue o padrão do time para services/usecases.”&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="121" width="170" x="1040" y="1039" as="geometry" />
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-60" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="Reporte para o revisador. E.g:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“O campo X pode precisar de índice, mas ainda não validei.”&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;“A abordagem que escolhi não segue o padrão do time para services/usecases. O que você acha?”&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="131" width="170" x="1040" y="1034" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
