@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="3665" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2846" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
           <mxGeometry height="100" width="269" x="279" y="380" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" value="Iniciar o dia e ver as pendências do dia" vertex="1">
-          <mxGeometry height="550" width="1280" x="-1150" y="70" as="geometry" />
+          <mxGeometry height="1270" width="1280" x="-1150" y="70" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-12" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Sf0qTxrCm-4Mj2-6H7ZE-11" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -203,6 +203,21 @@
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-60" parent="1" style="whiteSpace=wrap;html=1;align=left;" value="Reporte para o revisador. E.g:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“O campo X pode precisar de índice, mas ainda não validei.”&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;“A abordagem que escolhi não segue o padrão do time para services/usecases. O que você acha?”&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="131" width="170" x="1040" y="1034" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-3" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-2" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Sou Tech Lead de algum time?" vertex="1">
+          <mxGeometry height="120" width="120" x="-1110" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-5" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-4" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Hoje é segunda feira?" vertex="1">
+          <mxGeometry height="120" width="120" x="-980" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-4" parent="1" style="whiteSpace=wrap;html=1;" value="Fazer reunião com o PO para definir as metas." vertex="1">
+          <mxGeometry height="60" width="120" x="-780" y="810" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
