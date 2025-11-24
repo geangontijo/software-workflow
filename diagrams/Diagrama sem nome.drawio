@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="3762" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" value="Fazer pré-review" vertex="1">
-          <mxGeometry height="760" width="521" x="159" y="640" as="geometry" />
+          <mxGeometry height="1320" width="521" x="159" y="640" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" value="Passar uma nova tarefa, acabaram as tarefas de um desenvolvedor ou Programador está parado." vertex="1">
           <mxGeometry height="550" width="520" x="160" y="70" as="geometry" />
@@ -148,11 +148,14 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-40" parent="1" style="whiteSpace=wrap;html=1;" value="Você tem 30 minutos" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="860" as="geometry" />
         </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-29" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;align=left;" value="- Abra o PR no github ou na IDE com a lista de arquivos alterados.&lt;div&gt;- Revise-os 1 de cada vez, marcando o checkbox de revisado à cada arquivo.&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Dê preferência a revisar o conteúdo mais difícil primeiro.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="200" x="314" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" value="Minha tarefa será pré-revisada" vertex="1">
-          <mxGeometry height="890" width="540" x="710" y="640" as="geometry" />
+          <mxGeometry height="1040" width="540" x="710" y="640" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-59" edge="1" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FFWU8i_7jr5S72jFIS_z-21">
           <mxGeometry relative="1" as="geometry">
@@ -238,7 +241,7 @@
         <mxCell id="FFWU8i_7jr5S72jFIS_z-22" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-25" value="Pequeno (1-3min)">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-23" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-26" value="">
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-23" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-26" value="Médio/Grande (+3 min)">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=0;" value="Qual o tamanho da mudança?" vertex="1">
@@ -249,6 +252,27 @@
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Registre na lista de pendências" vertex="1">
           <mxGeometry height="35" width="120" x="950" y="1455" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=0;" value="Dentre as prioridades do revisador," vertex="1">
+          <mxGeometry height="150" width="150" x="827" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-31" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-28" parent="1" style="whiteSpace=wrap;html=1;align=center;rounded=0;" value="Vou solicitar uma alteração para o desenvolvedor" vertex="1">
+          <mxGeometry height="55" width="120" x="354" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-33" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FFWU8i_7jr5S72jFIS_z-36" value="Um padrão já estabelecido foi violado">
+          <mxGeometry relative="1" x="0.0112" y="8" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="487.5" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Qual o motivo da solicitação dessa alteração?" vertex="1">
+          <mxGeometry height="155" width="155" x="202.5" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Solicite a alteração." vertex="1">
+          <mxGeometry height="25" width="120" x="428" y="1715" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
