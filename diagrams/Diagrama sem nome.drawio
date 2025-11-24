@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="2796" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2959" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,9 +252,6 @@
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Registre na lista de pendências" vertex="1">
           <mxGeometry height="35" width="120" x="950" y="1455" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;rounded=0;" value="Dentre as prioridades do revisador," vertex="1">
-          <mxGeometry height="150" width="150" x="827" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-31" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FFWU8i_7jr5S72jFIS_z-30" value="">
           <mxGeometry relative="1" as="geometry" />
