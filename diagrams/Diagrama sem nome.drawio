@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
   <diagram name="Página-1" id="KIXm3bllOQ_5TtjzHJ28">
-    <mxGraphModel dx="2834" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4147" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,94 +54,19 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-8" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Delegue uma tarefa com os seguintes critérios:&lt;br&gt;&lt;br&gt;- esforço máximo de um dia 1 dia a partir do seu ponto de vista.&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- nenhuma dependência de outras tasks.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- critérios de aceite claros&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- mockup visual (se tiver front-end)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="190" y="460" width="269" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-9" value="Iniciar o dia e ver as pendências do dia" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-1150" y="70" width="1280" height="1270" as="geometry" />
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-9" value="Descobrir pendências" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-1160" y="40" width="630" height="1060" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" target="Sf0qTxrCm-4Mj2-6H7ZE-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" target="Sf0qTxrCm-4Mj2-6H7ZE-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-15" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" target="Sf0qTxrCm-4Mj2-6H7ZE-14" edge="1">
-          <mxGeometry x="-0.8378" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" target="JbQe8Vr5m0YVrdl6Yinc-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-886" y="194.49606299212633" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-880" y="180" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" target="Sf0qTxrCm-4Mj2-6H7ZE-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-10" value="Há tarefas às quais sou o reviewer?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1110" y="120" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-11" target="Sf0qTxrCm-4Mj2-6H7ZE-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-790" y="335" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-11" value="algumas possuem uma carga cognitiva grande (envolvem aprendizado, lógicas mirabolantes etc...)?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-975" y="260" width="170" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-18" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-14" target="Sf0qTxrCm-4Mj2-6H7ZE-17" edge="1">
-          <mxGeometry x="0.9059" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="-580" y="335" />
-              <mxPoint x="-580" y="490" />
-              <mxPoint x="-790" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-14" value="algumas não tiveram o pré-review adequado durante o período de desenvolvimento?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-770" y="250" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-17" value="Dê prioridade. Review&#39;s grandes geralmente escondem gargalos invisíveis." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-890" y="530" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-25" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-20" target="Sf0qTxrCm-4Mj2-6H7ZE-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-340" y="330" />
-              <mxPoint x="-340" y="224" />
-              <mxPoint x="-164" y="224" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-20" value="algumas tiveram o devido acompanhamento diário?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-542" y="244" width="172" height="172" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-28" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-24" target="Sf0qTxrCm-4Mj2-6H7ZE-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-320" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-30" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-24" target="Sf0qTxrCm-4Mj2-6H7ZE-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-50" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-24" value="a tarefa tem prioridade extrema (precisa subir agora)?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="244" width="172" height="172" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-27" value="Agende o pré-review com o programador (dê preferência horários entre 10h e 17h)." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="525" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-29" target="Sf0qTxrCm-4Mj2-6H7ZE-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-50" y="660" />
-              <mxPoint x="414" y="660" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-29" value="Faça o pré-review agora." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="525" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-33" target="Sf0qTxrCm-4Mj2-6H7ZE-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -177,15 +102,13 @@
           <mxGeometry x="314" y="1260" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-47" value="Minha tarefa será pré-revisada" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="640" width="540" height="1040" as="geometry" />
+          <mxGeometry x="710" y="640" width="540" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-48" target="FFWU8i_7jr5S72jFIS_z-21" edge="1">
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-48" target="L4kngtZYKJ-jhvtokRWR-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="850" y="960" />
-              <mxPoint x="971" y="960" />
-              <mxPoint x="971" y="1000" />
-              <mxPoint x="835" y="1000" />
+              <mxPoint x="980" y="960" />
             </Array>
             <mxPoint x="840" y="1030" as="targetPoint" />
           </mxGeometry>
@@ -210,10 +133,9 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-50" value="É o primeiro contato do revisador com essa tarefa?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="891" y="680.5" width="159" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-52" target="FFWU8i_7jr5S72jFIS_z-21" edge="1">
+        <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="L4kngtZYKJ-jhvtokRWR-7" target="FFWU8i_7jr5S72jFIS_z-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="1000" />
               <mxPoint x="835" y="1000" />
             </Array>
             <mxPoint x="839" y="1020.5" as="targetPoint" />
@@ -222,32 +144,25 @@
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-52" value="Contextualize o revisador à tarefa." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="880" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-3" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-1" target="FFWU8i_7jr5S72jFIS_z-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-1" value="Sou Tech Lead de algum time?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1110" y="645" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-5" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-2" target="FFWU8i_7jr5S72jFIS_z-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-2" value="Hoje é segunda feira?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="780" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-4" value="Fazer reunião com o PO para definir as metas." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-14" value="Estou desenvolvendo a minha tarefa" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="640" width="540" height="890" as="geometry" />
+          <mxGeometry x="1320" y="640" width="990" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" target="FFWU8i_7jr5S72jFIS_z-19" edge="1">
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-17" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" target="FFWU8i_7jr5S72jFIS_z-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" target="JbQe8Vr5m0YVrdl6Yinc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1680" y="713" />
+              <mxPoint x="1680" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-18" value="Foi percebido algum risco técnico?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="712.5" width="159" height="159" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-19" value="Anote na sua lista de pendências para mostrar posteriormente para o revisador. E.g:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;“O campo X pode precisar de índice, mas ainda não validei.”&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;“A abordagem que escolhi não segue o padrão do time para services/usecases. O que você acha?”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1645" y="704" width="170" height="176" as="geometry" />
+          <mxGeometry x="1540" y="880" width="170" height="176" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-20" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-21" target="FFWU8i_7jr5S72jFIS_z-24" edge="1">
           <mxGeometry x="-0.1997" relative="1" as="geometry">
@@ -270,10 +185,10 @@
           <mxGeometry x="935" y="1180" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-25" value="Faça agora mesmo" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1380" width="120" height="30" as="geometry" />
+          <mxGeometry x="790" y="1380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-26" value="Registre na lista de pendências" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="1455" width="120" height="35" as="geometry" />
+          <mxGeometry x="1090" y="1380" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-28" target="FFWU8i_7jr5S72jFIS_z-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -281,70 +196,54 @@
         <mxCell id="FFWU8i_7jr5S72jFIS_z-28" value="Vou solicitar uma alteração para o desenvolvedor" style="whiteSpace=wrap;html=1;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="1430" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-33" value="Um padrão já estabelecido foi violado" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FFWU8i_7jr5S72jFIS_z-30" target="FFWU8i_7jr5S72jFIS_z-36" edge="1">
-          <mxGeometry x="-0.8374" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="487.5" y="1730" as="targetPoint" />
+        <mxCell id="y2GgRsTBZuAcGSTFL-Vb-2" value="Tarefa não cumpre requisito funcional ou técnico obrigatório." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FFWU8i_7jr5S72jFIS_z-30" target="FFWU8i_7jr5S72jFIS_z-36" edge="1">
+          <mxGeometry x="-0.6615" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="1580" />
+              <mxPoint x="650" y="1638" />
+              <mxPoint x="650" y="2190" />
+              <mxPoint x="600" y="2190" />
             </Array>
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-30" value="Qual o motivo da solicitação dessa alteração?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="1560" width="155" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-40" value="Problema de segurança" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-30" target="FFWU8i_7jr5S72jFIS_z-36" edge="1">
-          <mxGeometry x="-0.8512" y="8" relative="1" as="geometry">
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-44" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-42" target="FFWU8i_7jr5S72jFIS_z-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="559" y="1895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4kngtZYKJ-jhvtokRWR-3" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-42" target="L4kngtZYKJ-jhvtokRWR-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="1895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-42" value="O programador que vai aplicar a correção, de acordo com o seu conhecimento atual vai ter capacidade técnica de aplicar com eficiência?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="339" y="1830" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="L4kngtZYKJ-jhvtokRWR-5" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-47" target="FFWU8i_7jr5S72jFIS_z-36" edge="1">
+          <mxGeometry x="-0.929" y="5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="1995" />
+              <mxPoint x="650" y="2190" />
+              <mxPoint x="600" y="2190" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-41" value="Outra razão" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-30" target="FFWU8i_7jr5S72jFIS_z-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="1790" />
-              <mxPoint x="280" y="1790" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-43" value="Júnior" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-42" target="FFWU8i_7jr5S72jFIS_z-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="268" y="2030" />
-              <mxPoint x="268" y="2030" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-44" value="Pleno/Sênior" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-42" target="FFWU8i_7jr5S72jFIS_z-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1875" />
-              <mxPoint x="420" y="1875" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-42" value="Qual o nível de experiência do programador?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="209" y="1810" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-46" value="Adicione ao backlog. Júnior não deve ser travado com aprendizado." style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="2340" width="130" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-47" value="Essa mudança vai atrasar significativamente o produto?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="384" y="1940" width="130" height="130" as="geometry" />
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-47" value="Essa mudança&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;vai atrasar significativamente o produto?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="494" y="1930" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-48" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FFWU8i_7jr5S72jFIS_z-47" target="FFWU8i_7jr5S72jFIS_z-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="2005" />
-              <mxPoint x="380" y="2383" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FFWU8i_7jr5S72jFIS_z-49" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FFWU8i_7jr5S72jFIS_z-47" target="FFWU8i_7jr5S72jFIS_z-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="2005" />
-              <mxPoint x="520" y="2170" />
-              <mxPoint x="488" y="2170" />
+              <mxPoint x="440" y="1995" />
+              <mxPoint x="440" y="2383" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -352,7 +251,129 @@
           <mxGeometry x="540" y="2370" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FFWU8i_7jr5S72jFIS_z-45" value="Adicione ao backlog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="428" y="2190" width="120" height="30" as="geometry" />
+          <mxGeometry x="294" y="2350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFWU8i_7jr5S72jFIS_z-41" value="Bug.&lt;div&gt;Problema de segurança.&lt;/div&gt;&lt;div&gt;Quebra de um padrão existente.&lt;/div&gt;&lt;div&gt;Outros.&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-30" target="FFWU8i_7jr5S72jFIS_z-42" edge="1">
+          <mxGeometry x="0.3445" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1730" />
+              <mxPoint x="409" y="1730" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4kngtZYKJ-jhvtokRWR-4" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L4kngtZYKJ-jhvtokRWR-2" target="FFWU8i_7jr5S72jFIS_z-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L4kngtZYKJ-jhvtokRWR-2" value="Consigo cortar parte da difilcudade desse desenvolvedor entregando algo mais pronto para ele? (e.g: Ao invés de ler a documentação e entender a ferramenta por completo, faça X e Y e seu problema será resolvido.)" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="183" y="2000" width="231" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L4kngtZYKJ-jhvtokRWR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-52" target="L4kngtZYKJ-jhvtokRWR-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="1000" />
+            </Array>
+            <mxPoint x="1050" y="1000" as="targetPoint" />
+            <mxPoint x="1110" y="930" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4kngtZYKJ-jhvtokRWR-7" value="Inicie o pré-review" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JbQe8Vr5m0YVrdl6Yinc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2318" y="801.9999999999998" as="sourcePoint" />
+            <mxPoint x="-742" y="62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2378" y="802" />
+              <mxPoint x="2378" y="32" />
+              <mxPoint x="-780" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-2" value="Está pronto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-5" target="Sf0qTxrCm-4Mj2-6H7ZE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-5" target="JbQe8Vr5m0YVrdl6Yinc-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1120" y="100" />
+              <mxPoint x="-1120" y="470" />
+              <mxPoint x="-1030" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-5" value="Vou verificar minhas pendências" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-8" target="JbQe8Vr5m0YVrdl6Yinc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-8" target="JbQe8Vr5m0YVrdl6Yinc-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1100" y="540" />
+              <mxPoint x="-1100" y="620" />
+              <mxPoint x="-945" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-8" value="Desde a ultima priorização, estou associado ao desenvolvimento de uma tarefa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-10" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cases:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;- Cheguei e tinha uma tarefa pendente para o meu review, como fui eu quem passou a tarefa, e, ontem, o eu e o dev fizemos um pré-review onde a tarefa foi aprovada e o código não foi alterado, vou apenas fazer o review formal. -- Resultado: Review formal&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;- Cheguei e tinha uma tarefa pendente para o meu review, no entanto, a tarefa ainda não está pronta. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Estava desenvolvendo uma task ontem, e cheguei hoje. Ninguem me falou nada mudando a prioridade. -- Resultado: continuar o desenvolvimento.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Terminei o dia ontem finalizando todas as minhas tarefas em desenvolvimento e em review. -- Resultado: Vou pegar uma nova tarefa no backlog&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1740" y="130" width="410" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-11" target="JbQe8Vr5m0YVrdl6Yinc-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-730" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-11" target="JbQe8Vr5m0YVrdl6Yinc-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-545" y="425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-970" y="253" />
+              <mxPoint x="-970" y="360" />
+              <mxPoint x="-825" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-11" value="a tarefa foi aprovada no ultimo pré-review e o código não foi alterado desde então?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="190" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-20" target="JbQe8Vr5m0YVrdl6Yinc-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-825" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-20" target="JbQe8Vr5m0YVrdl6Yinc-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-545" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-20" value="a lista de pendências da tarefa está vazia?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="264" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-32" value="Review formal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="405" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-33" value="Agende o pré-review com o programador.&lt;div&gt;&lt;div&gt;(dê preferência horários entre 10h e 17h).&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="405" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-34" value="Continuar o desenvolvimento." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="632.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-37" value="Pegar uma nova tarefa no backlog&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Considere fatores como:&lt;/div&gt;&lt;div&gt;- O que essa tarefa bloquea?&lt;/div&gt;&lt;div&gt;- Valor de negócio&lt;/div&gt;&lt;div&gt;- A sua capacidade técnica&lt;/div&gt;&lt;div&gt;- O seu alinhamento com o Tech Lead&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No final, se faça a seguinte pergunta: &quot;Qual é a melhor tarefa que eu posso pegar para desenvolver?&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="632.75" width="150" height="222.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
