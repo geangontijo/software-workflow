@@ -55,7 +55,7 @@
           <mxGeometry x="190" y="460" width="269" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-9" value="Descobrir pendências" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="40" width="630" height="1060" as="geometry" />
+          <mxGeometry x="-1310" y="40" width="780" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="Sf0qTxrCm-4Mj2-6H7ZE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sf0qTxrCm-4Mj2-6H7ZE-10" target="JbQe8Vr5m0YVrdl6Yinc-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
         <mxCell id="FFWU8i_7jr5S72jFIS_z-17" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" target="FFWU8i_7jr5S72jFIS_z-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" target="JbQe8Vr5m0YVrdl6Yinc-2">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FFWU8i_7jr5S72jFIS_z-18" target="JbQe8Vr5m0YVrdl6Yinc-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1680" y="713" />
@@ -280,7 +280,7 @@
         <mxCell id="L4kngtZYKJ-jhvtokRWR-7" value="Inicie o pré-review" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JbQe8Vr5m0YVrdl6Yinc-5">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="JbQe8Vr5m0YVrdl6Yinc-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2318" y="801.9999999999998" as="sourcePoint" />
             <mxPoint x="-742" y="62" as="targetPoint" />
@@ -291,13 +291,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-2" value="Está pronto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-2" value="Está pronto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2160" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-5" target="Sf0qTxrCm-4Mj2-6H7ZE-10">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-5" target="Sf0qTxrCm-4Mj2-6H7ZE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-5" target="JbQe8Vr5m0YVrdl6Yinc-8">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-5" target="JbQe8Vr5m0YVrdl6Yinc-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1120" y="100" />
@@ -306,13 +306,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-5" value="Vou verificar minhas pendências" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-5" value="Vou verificar minhas pendências" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-8" target="JbQe8Vr5m0YVrdl6Yinc-34">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-8" target="JbQe8Vr5m0YVrdl6Yinc-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-8" target="JbQe8Vr5m0YVrdl6Yinc-37">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-8" target="JbQe8Vr5m0YVrdl6Yinc-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1100" y="540" />
@@ -321,20 +321,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-8" value="Desde a ultima priorização, estou associado ao desenvolvimento de uma tarefa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-8" value="Desde a ultima priorização, estou associado ao desenvolvimento de uma tarefa?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1090" y="480" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-10" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cases:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;- Cheguei e tinha uma tarefa pendente para o meu review, como fui eu quem passou a tarefa, e, ontem, o eu e o dev fizemos um pré-review onde a tarefa foi aprovada e o código não foi alterado, vou apenas fazer o review formal. -- Resultado: Review formal&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;- Cheguei e tinha uma tarefa pendente para o meu review, no entanto, a tarefa ainda não está pronta. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Estava desenvolvendo uma task ontem, e cheguei hoje. Ninguem me falou nada mudando a prioridade. -- Resultado: continuar o desenvolvimento.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Terminei o dia ontem finalizando todas as minhas tarefas em desenvolvimento e em review. -- Resultado: Vou pegar uma nova tarefa no backlog&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cheguei e tenho uma tarefa para review. O pré-review foi feito anteriormente, mas ficaram pendências anotadas na lista. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cheguei e tenho uma tarefa para review. O pré-review foi aprovado, mas o desenvolvedor precisou alterar o código após a aprovação. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cheguei e tenho uma tarefa para review. É a primeira vez que vejo essa tarefa. -- Resultado: Agendar pré-review.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-10" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cases:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;- Cheguei e tinha uma tarefa pendente para o meu review, como fui eu quem passou a tarefa, e, ontem, o eu e o dev fizemos um pré-review onde a tarefa foi aprovada e o código não foi alterado, vou apenas fazer o review formal. -- Resultado: Review formal&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;- Cheguei e tinha uma tarefa pendente para o meu review, no entanto, a tarefa ainda não está pronta. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Estava desenvolvendo uma task ontem, e cheguei hoje. Ninguem me falou nada mudando a prioridade. -- Resultado: continuar o desenvolvimento.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Terminei o dia ontem finalizando todas as minhas tarefas em desenvolvimento e em review. -- Resultado: Vou pegar uma nova tarefa no backlog&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cheguei e tenho uma tarefa para review. O pré-review foi feito anteriormente, mas ficaram pendências anotadas na lista. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cheguei e tenho uma tarefa para review. O pré-review foi aprovado, mas o desenvolvedor precisou alterar o código após a aprovação. -- Resultado: Agendar pré-review.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Cheguei e tenho uma tarefa para review. É a primeira vez que vejo essa tarefa. -- Resultado: Agendar pré-review.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1740" y="130" width="410" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-11" target="JbQe8Vr5m0YVrdl6Yinc-20">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-11" target="JbQe8Vr5m0YVrdl6Yinc-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-730" y="253" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-11" target="JbQe8Vr5m0YVrdl6Yinc-33">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-11" target="JbQe8Vr5m0YVrdl6Yinc-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-545" y="425" as="targetPoint" />
             <Array as="points">
@@ -344,10 +344,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-11" value="a tarefa foi aprovada no ultimo pré-review e o código não foi alterado desde então?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-11" value="a tarefa foi aprovada no ultimo pré-review e o código não foi alterado desde então?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-940" y="190" width="120" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-20" target="JbQe8Vr5m0YVrdl6Yinc-33">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-20" target="JbQe8Vr5m0YVrdl6Yinc-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-840" y="400" as="targetPoint" />
             <Array as="points">
@@ -355,25 +355,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-20" target="JbQe8Vr5m0YVrdl6Yinc-32">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbQe8Vr5m0YVrdl6Yinc-20" target="JbQe8Vr5m0YVrdl6Yinc-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-545" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-20" value="a lista de pendências da tarefa está vazia?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-20" value="a lista de pendências da tarefa está vazia?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="264" width="120" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-32" value="Review formal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-32" value="Review formal" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-630" y="405" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-33" value="Agende o pré-review com o programador.&lt;div&gt;&lt;div&gt;(dê preferência horários entre 10h e 17h).&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-33" value="Agende o pré-review com o programador.&lt;div&gt;&lt;div&gt;(dê preferência horários entre 10h e 17h).&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-940" y="405" width="230" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-34" value="Continuar o desenvolvimento." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-34" value="Continuar o desenvolvimento." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="632.75" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-37" value="Pegar uma nova tarefa no backlog&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Considere fatores como:&lt;/div&gt;&lt;div&gt;- O que essa tarefa bloquea?&lt;/div&gt;&lt;div&gt;- Valor de negócio&lt;/div&gt;&lt;div&gt;- A sua capacidade técnica&lt;/div&gt;&lt;div&gt;- O seu alinhamento com o Tech Lead&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No final, se faça a seguinte pergunta: &quot;Qual é a melhor tarefa que eu posso pegar para desenvolver?&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="632.75" width="150" height="222.5" as="geometry" />
+        <mxCell id="JbQe8Vr5m0YVrdl6Yinc-37" value="Pegar uma nova tarefa no backlog&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Considere fatores como:&lt;/div&gt;&lt;div&gt;- O que essa tarefa bloquea?&lt;/div&gt;&lt;div&gt;- Valor de negócio&lt;/div&gt;&lt;div&gt;- A sua capacidade técnica&lt;/div&gt;&lt;div&gt;- O seu alinhamento com o Tech Lead&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;No final, se faça a seguinte pergunta: &quot;Qual é a melhor tarefa que eu posso pegar para desenvolver?&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1040" y="632.75" width="170" height="222.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
